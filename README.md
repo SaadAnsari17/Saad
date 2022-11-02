@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Saad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/saadtypes" target="blank"><img src="https://img.shields.io/twitter/follow/saadtypes?logo=twitter&style=for-the-badge" alt="saadtypes" /></a> </p>
 
