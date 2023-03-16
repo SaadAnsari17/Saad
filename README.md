@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadops&label=Profile%20views&color=0e75b6&style=flat" alt="saadops" /> </p>
 
-<p align="left"> <a href="https://twitter.com/SaadAnsari17" target="blank"><img src="https://img.shields.io/twitter/follow/SaadAnsari17?logo=twitter&style=for-the-badge" alt="SaadAnsari17" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SaadTypes" target="blank"><img src="https://img.shields.io/twitter/follow/SaadTypes?logo=twitter&style=for-the-badge" alt="SaadTypes" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
