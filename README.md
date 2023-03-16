@@ -16,7 +16,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saadops&theme=cobalt&layout=compact)](https://github.com/saadops/github-readme-stats)
 
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadops&show_icons=true&theme=radical)
+![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaadOps&show_icons=true&theme=radical)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saadops&theme=dracula" alt="saadops" /></p>
